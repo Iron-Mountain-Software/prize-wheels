@@ -1,0 +1,21 @@
+{
+  "name": "com.iron-mountain.prize-wheels",
+  "version": "1.0.0",
+  "displayName": "Prize Wheels",
+  "description": "A tool for creating interactive prize wheels.",
+  "unity": "2019.1",
+  "keywords": [
+    "tools"
+  ],
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
+  "type": "tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iron-Mountain-Software/prize-wheels.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iron-Mountain-Software/prize-wheels/issues"
+  },
+  "homepage": "https://github.com/Iron-Mountain-Software/prize-wheels#readme"
+}

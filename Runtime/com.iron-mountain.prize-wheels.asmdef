@@ -1,0 +1,14 @@
+{
+    "name": "com.iron-mountain.prize-wheels",
+    "rootNamespace": "IronMountain.PrizeWheels",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
