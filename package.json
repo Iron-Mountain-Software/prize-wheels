@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Iron-Mountain-Software/prize-wheels/issues"
   },
-  "homepage": "https://github.com/Iron-Mountain-Software/prize-wheels#readme"
+  "homepage": "https://github.com/Iron-Mountain-Software/prize-wheels#readme",
+  "samples": [
+    {
+      "displayName": "Example Scene",
+      "description": "Examples of basic functionality",
+      "path": "Samples~/Example Scene"
+    }
+  ]
 }
