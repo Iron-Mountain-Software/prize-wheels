@@ -20,5 +20,5 @@ EASY SET UP! SOME CODING REQUIRED
    * Calls Stop() on the referenced PrizeWheel when clicked.
 
 
-3. **PrizeWheelTickSOundEffect**
+3. **PrizeWheelTickSoundEffect**
    * Plays an AudioClip whenever the value of the referenced PrizeWheel changes.
